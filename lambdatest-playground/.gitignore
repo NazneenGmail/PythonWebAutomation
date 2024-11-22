@@ -1,8 +1,0 @@
-.idea/
-.pytest_cache/
-.venv
-pages/*/*.pyc
-tests/*/*.pyc
-utilities/*/*.pyc
-lambdatest-playground/__pycache__/
-.DS_Store
